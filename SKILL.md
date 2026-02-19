@@ -4,7 +4,7 @@ description: A skill for transforming individual stories into monumental install
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4911
+  version: 1.0.4912
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - scale-as-meaning
